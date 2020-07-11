@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"SConstruct": "python",
+			"*.shader": "glsl",
+			"string_view": "cpp",
+			"tuple": "cpp",
+			"*.idl": "cpp",
+			"chrono": "cpp"
+		}
+	}
+}
